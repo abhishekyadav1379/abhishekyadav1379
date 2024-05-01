@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek yadav</h1>
 <h3 align="center">Bringing Ideas to Life Through Code</h3>
-<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif](https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif)">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/i_K3zWsgcG8AAAAi/hacker-pepe.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekyadav1379&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekyadav1379" /> </p>
 
